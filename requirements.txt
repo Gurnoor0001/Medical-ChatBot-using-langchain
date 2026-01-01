@@ -1,0 +1,5 @@
+pinecone
+langchain
+python-dotenv
+langchain-community
+flask
