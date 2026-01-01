@@ -3,6 +3,19 @@
 ## steps to run the project
 
 1. install the requirements
-2. ```bash
+ ```bash
    pip install -r requirements.txt
    ```
+
+2. Clone the repository:
+```bash
+   git clone https://github.com/Gurnoor0001/Medical-ChatBot-using-langchain.git
+   ``` 
+
+3. Create a .env file in the root directory of the project and add the following variables:
+```bash
+   PINECONE_API_KEY=your_pinecone_api_key
+   LLM_api_key=your_llm_api_key
+   ```
+
+4. 
