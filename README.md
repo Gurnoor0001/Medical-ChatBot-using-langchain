@@ -18,13 +18,15 @@
    LLM_api_key=your_llm_api_key
    ```
 
-4. # run the following command to store the index
+4.  run the following command to store the index
+```bash
 python store_index.py
-
-5. # run the following command to start the server 
+````
+5.  run the following command to start the server 
+```bash
 python app.py
-
-6. # open up localhost:5000 in your browser
+```
+6.  open up localhost:5000 in your browser to see the medical chat boat 
    
 
 ## Techstack Used:
