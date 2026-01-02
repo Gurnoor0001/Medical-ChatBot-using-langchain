@@ -18,4 +18,18 @@
    LLM_api_key=your_llm_api_key
    ```
 
-4. 
+4. # run the following command to store the index
+python store_index.py
+
+5. # run the following command to start the server 
+python app.py
+
+6. # open up localhost:5000 in your browser
+   
+
+## Techstack Used:
+- Python
+- LangChain
+- Flask
+- Google LLM
+- Pinecone
